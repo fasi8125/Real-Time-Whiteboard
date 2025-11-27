@@ -7,13 +7,13 @@ This application was developed as part of my 1-month Python Web Development Inte
 
 * Features
 Category	                     Features
- Drawing Tools	          Brush, color picker, adjustable size, eraser
- Controls	              Undo, Redo, Clear board, Download canvas
- Real-Time Sync	          Live drawing sync across all connected users
- Authentication	User       registration & login using JWT
- Session	               Create / Join room using unique session IDs
- Storage	              Save / Load canvas from MongoDB
- Technology	              WebSockets used for real-time events
+ Drawing Tools	       ---   Brush, color picker, adjustable size, eraser
+ Controls	            ---  Undo, Redo, Clear board, Download canvas
+ Real-Time Sync	    ---      Live drawing sync across all connected users
+ Authentication	User   ---    registration & login using JWT
+ Session	          ---     Create / Join room using unique session IDs
+ Storage	          ---    Save / Load canvas from MongoDB
+ Technology	      ---        WebSockets used for real-time events
 
 Tech Stack
 Component	     Technology
@@ -58,15 +58,14 @@ Then open browser:
 
 📌 Internship Details
 Field	                  Information
-Internship Title	      Python Web Developer
-Organization	          Gwing Software Technologies
-Duration	              1 Month (Oct 27 – Nov 26, 2025)
-Role	                  Backend + Frontend Development
-Project                   Real-Time Collaborative Whiteboard
-Responsibilities	      Developing backend API, implementing WebSockets, designing UI, integrating MongoDB, testing & documentation
+Internship Title	  ---    Python Web Developer
+Organization	    ---      Gwing Software Technologies
+Duration	        ---      1 Month (Oct 27 – Nov 26, 2025)
+Role	            --      Backend + Frontend Development
+Project         ---          Real-Time Collaborative Whiteboard
+Responsibilities	---      Developing backend API, implementing WebSockets, designing UI, integrating MongoDB, testing & documentation
 
-Demo Video: https://youtu.be/XXXXXXXX
-Live Link: https://yourdeployment.com 
+Demo Video: https://drive.google.com/file/d/12bvlYr7WAFWb_Hg4PRuzQCZoNv8rEmG-/view?usp=sharing 
 
 the running process:
 .venv/Scripts/Activate.ps1
